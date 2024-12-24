@@ -1,5 +1,5 @@
 # Custom-Masking_Comfy
-## A fork of Davemane42's Custom Node for [ComfyUI](https://github.com/comfyanonymous/ComfyUI)  
+A fork of Davemane42's Custom Node for [ComfyUI](https://github.com/comfyanonymous/ComfyUI)  
 
 ## Instalation:
 
